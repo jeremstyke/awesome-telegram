@@ -98,6 +98,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@mono_me_bot](https://t.me/mono_me_bot) – AI photo studio that turns a photo into a face-preserving portrait from style presets, plus photo-to-video and photo restoration.
 * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
 * [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) – [Apache-2.0 open-source](https://github.com/IgorShadurin/weight-telegram-bot) group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages.
+* [@mybestfriend_ai_en_bot](https://t.me/mybestfriend_ai_en_bot?start=src_github) – ChatPal, an AI friend you can chat with in your language, with quizzes and games for groups.
 * [@MyHoldFolioBot](https://t.me/MyHoldFolioBot?start=awesome) – Logs coin holdings and values a crypto portfolio live, with PnL against your cost basis, hourly snapshots, and a 7-day history. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@mynudgebot](https://t.me/mynudgebot) – Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language.
 * [@nosticker_bot](https://t.me/nosticker_bot) – Removes any sticker posted to the group
@@ -154,6 +155,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@xiaolangzaibot](https://t.me/xiaolangzaibot) – [Open Source](https://github.com/luoyanglang/AI-Anti-Spam-Bot) AI-powered anti-spam bot that detects and removes spam in text, images, and stickers. Supports multiple AI models (OpenAI, Qwen, DeepSeek).
 * [@ximanager_bot](https://t.me/ximanager_bot) – 🀄️ An AI-powered Telegram bot styled as Xi’s personal assistant. The great leader’s personal aide, ready to answer the questions of people.
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) – Integration of Yandex.Disk. This bot can upload different files (photos, video, audio, etc.) to Yandex.Disk (cloud storage).
+* [@youradsherebot](https://t.me/youradsherebot?start=src_github) – Post a free daily ad for your channel, group, bot or business, translated into English and reviewed by a human before publication.
 * [@YourAriaBot](https://t.me/YourAriaBot) – Premium AI personal assistant with personality. Warm, sharp, and playful. 20 free msgs, 300 Stars/mo (~\$3). Privacy-first (RAM-only conversations).
 * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
 
@@ -189,9 +191,11 @@ In all inline bots, you need to enter @botname, type words and wait for response
 ### Games
 
 * [@awesomebot](https://telegram.me/awesomebot) – Simple HTML5 games. All games are open source.
+* [@DailyScorefootbot](https://t.me/DailyScorefootbot/play?startapp=src_github) – Daily Score: guess the score of the big football match of the day and climb the leaderboard with your friends.
 * [@gamebot](https://telegram.me/gamebot) – Official telegram bot for HTML5 gaming.
 * [@gamee](https://telegram.me/gamee) – Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform.
 * [@GamesHDBot](https://telegram.me/GamesHDBot) – Provides HTML5 high quality games.
+* [@Lsimgamebot](https://t.me/Lsimgamebot?start=src_github) – Life Sim: a life simulation game where you live a whole life, from school and work to love and money.
 * [@ludeiBot](https://telegram.me/ludeiBot) – Play Ludei games directly into your Telegram's chats.
 * [@minegame_bot](https://telegram.me/minegame_bot) – Play classic puzzle game directly in your messenger. The first visual interactive game bot.
 * [@mytetrisbot](https://telegram.me/mytetrisbot) – Tetris reborn! Create horizontal lines of ten and get points.
@@ -200,6 +204,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [@DefendTheCastle](https://telegram.me/DefendTheCastle) – Defend your castle and battle with other players.
 * [@TrueMafiaBot](https://t.me/TrueMafiaBot) – Play Mafia in Telegram groups.
 * [@unobot](https://telegram.me/unobot) – UNO Bot.
+* [@Whoknowsmebestbot](https://t.me/Whoknowsmebestbot?start=src_github) – Who Knows Me Best: create a quiz about yourself and find out which friends and family know you best, in 10 languages.
 
 ### Bot Development
 
